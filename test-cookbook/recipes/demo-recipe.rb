@@ -7,7 +7,7 @@ package 'tree' do
  action:install
 end
 
-file '/myfile46666665' do
+file '/myfile500' do
  content'This is Bubai Mitra'
  action:create
  owner 'root'
